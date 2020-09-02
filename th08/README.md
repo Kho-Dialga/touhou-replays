@@ -27,3 +27,5 @@ Replay 11 is Kaguya's "End of Imperishable Night -Half to Midnight-" on normal.
 Replay 12 is Kaguya's "End of Imperishable Night -Half Past 3-" on normal.
 
 Replay 13 is Kaguya's "End of Imperishable Night -Dawn-" on normal.
+
+Replay 14 is a better normal 1cc.
